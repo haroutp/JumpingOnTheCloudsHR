@@ -1,0 +1,12 @@
+/Users/haroutparseghian/Desktop/HR/JumpingOnTheClouds/bin/Debug/netcoreapp3.1/JumpingOnTheClouds.deps.json
+/Users/haroutparseghian/Desktop/HR/JumpingOnTheClouds/bin/Debug/netcoreapp3.1/JumpingOnTheClouds.runtimeconfig.json
+/Users/haroutparseghian/Desktop/HR/JumpingOnTheClouds/bin/Debug/netcoreapp3.1/JumpingOnTheClouds.runtimeconfig.dev.json
+/Users/haroutparseghian/Desktop/HR/JumpingOnTheClouds/bin/Debug/netcoreapp3.1/JumpingOnTheClouds.dll
+/Users/haroutparseghian/Desktop/HR/JumpingOnTheClouds/bin/Debug/netcoreapp3.1/JumpingOnTheClouds.pdb
+/Users/haroutparseghian/Desktop/HR/JumpingOnTheClouds/obj/Debug/netcoreapp3.1/JumpingOnTheClouds.csprojAssemblyReference.cache
+/Users/haroutparseghian/Desktop/HR/JumpingOnTheClouds/obj/Debug/netcoreapp3.1/JumpingOnTheClouds.csproj.CoreCompileInputs.cache
+/Users/haroutparseghian/Desktop/HR/JumpingOnTheClouds/obj/Debug/netcoreapp3.1/JumpingOnTheClouds.AssemblyInfoInputs.cache
+/Users/haroutparseghian/Desktop/HR/JumpingOnTheClouds/obj/Debug/netcoreapp3.1/JumpingOnTheClouds.AssemblyInfo.cs
+/Users/haroutparseghian/Desktop/HR/JumpingOnTheClouds/obj/Debug/netcoreapp3.1/JumpingOnTheClouds.dll
+/Users/haroutparseghian/Desktop/HR/JumpingOnTheClouds/obj/Debug/netcoreapp3.1/JumpingOnTheClouds.pdb
+/Users/haroutparseghian/Desktop/HR/JumpingOnTheClouds/obj/Debug/netcoreapp3.1/JumpingOnTheClouds.genruntimeconfig.cache
